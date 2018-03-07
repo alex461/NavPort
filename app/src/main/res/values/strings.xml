@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NavDPort</string>
+    <string name="headertitle">Alexander Ramirez</string>
+    <string name="app_menuEmail">Correo</string>
+    <string name="menualert">Alerta</string>
+    <string name="menuInfo">Informacion</string>
+    <string name="menudivideroption">Otras Opciones</string>
+    <string name="option1">Opcion 1</string>
+    <string name="option2">Opcion 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
